@@ -320,7 +320,7 @@ export default function Home() {
 
             <div className="flex items-center gap-8 ml-8">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/share/1AndXtD79D/?mibextid=wwXIfr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-500 hover:text-teal-600 transition-colors"
@@ -430,7 +430,7 @@ export default function Home() {
 
               <div className="flex items-center justify-center gap-12 sm:gap-4 pt-2">
                 <a
-                  href="https://facebook.com"
+                  href="https://www.facebook.com/share/1AndXtD79D/?mibextid=wwXIfr"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-slate-500 hover:text-teal-600 transition-colors"
