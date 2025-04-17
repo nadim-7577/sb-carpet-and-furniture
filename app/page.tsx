@@ -119,7 +119,7 @@ export default function Home() {
   // WhatsApp message
   const whatsappMessage =
     "Hello, I am interested in your carpets and furniture products.";
-  const whatsappNumber = "447525900400";
+  const whatsappNumber = "447525900440";
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     whatsappMessage
   )}`;
@@ -992,13 +992,13 @@ export default function Home() {
                     </a>
 
                     <a
-                      href="tel:+447525900400"
+                      href="tel:+447525900440"
                       className="flex items-center gap-3 text-teal-100 hover:text-white transition-colors"
                     >
                       <Phone className="h-5 w-5 text-teal-200" />
                       <div>
                         <h3 className="font-medium text-white">Mobile</h3>
-                        <p>07525 900400</p>
+                        <p>07525 900440</p>
                       </div>
                     </a>
 
