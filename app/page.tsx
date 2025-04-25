@@ -897,7 +897,7 @@ export default function Home() {
                         guidelines.
                       </p>
                     </div>
-                    <div className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm hover:border-teal-300 transition-colors">
+                    {/* <div className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm hover:border-teal-300 transition-colors">
                       <h4 className="text-lg font-semibold text-teal-700 mb-2">
                         Free Measurements
                       </h4>
@@ -915,6 +915,35 @@ export default function Home() {
                         We’re confident in our value — if you find a better
                         quote, we’ll beat it to give you the best deal without
                         compromising on quality.
+                      </p>
+                    </div> */}
+                    <div className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm hover:border-teal-300 transition-colors">
+                      <h4 className="text-lg font-semibold text-teal-700 mb-2">
+                        Free Measurements & Price Match Guarantee
+                      </h4>
+                      <p className="text-slate-600">
+                        Enjoy complimentary measurement services for a perfect
+                        fit and peace of mind — plus, if you find a better
+                        quote, we’ll beat it to ensure you get the best value
+                        without compromising on quality.
+                      </p>
+                    </div>
+                    <div className="rounded-lg border border-slate-200 bg-white p-6 shadow-sm hover:border-teal-300 transition-colors">
+                      <h4 className="text-lg font-semibold text-teal-700 mb-2">
+                        Career Opportunity
+                      </h4>
+                      <p className="text-slate-600">
+                        Carpenter and Joiner accurate dimensions on materials
+                        using rulers, framing squares, and levels to ensure
+                        precise cuts and fitments. Shape and trim wooden
+                        materials using hand and power tools such as saws,
+                        planes, chisels, and sanders to create desired
+                        components. Assemble and install wooden fixtures and
+                        structures, including cabinets, door frames, window
+                        frames, staircases, and built-in furniture, ensuring
+                        proper alignment and secure fitting. Install and repair
+                        flooring, including hardwood, laminate, and tile
+                        ensuring a level and seamless finish.
                       </p>
                     </div>
                   </div>
